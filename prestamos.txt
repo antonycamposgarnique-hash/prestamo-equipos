@@ -1,0 +1,4 @@
+Estudiante: Maria Lopez
+Equipo: Laptop
+Fecha de devolución: 2026-10-12
+Estado: Prestado
